@@ -1,7 +1,7 @@
 # mnist_knn_numpy
 simple knn applied to mnist using numpy 
 
-A quick and simple implementation.\
+A quick and simple implementation.
 
 TO RUN:\
 $ python mnist_knn_numpy.py
