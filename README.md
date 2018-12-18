@@ -2,6 +2,7 @@
 simple knn applied to mnist using numpy 
 
 A quick and simple implementation.\
+
 TO RUN:\
 $ python mnist_knn_numpy.py
 
@@ -22,5 +23,5 @@ Iteration 09 With k = 49  ==> Result: Accuracy 92.87% (417 correct predictions o
 
 >-----------------------------------------------------------------------
 
-(We notice that k=3 gives us a 97% accuracy for a 75/25 split in the input data.)
+(We notice that k=3 gives us a 97% accuracy for a 75/25 train/test split in the input data.)
 
