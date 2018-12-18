@@ -20,4 +20,4 @@ Iteration 09 With k = 49  ==> Result: Accuracy 92.87% (417 correct predictions o
 
 TO RUN:
 
-> python mnist_knn_numpy.py
+$ python mnist_knn_numpy.py
